@@ -1,7 +1,8 @@
 const setting = {
 	el: '#app',
 	data: {
-		message: 'Hello world!'
+		message: 'Hello world!',
+		img: 'https://picsum.photos/400/300'
 	}
 }
 
